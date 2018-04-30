@@ -1,4 +1,4 @@
 # LeetCode
 
 ## Data Structures
-* [/Data Structures/Tree.md](Tree)
+* [Tree](/Data Structures/Tree.md)
